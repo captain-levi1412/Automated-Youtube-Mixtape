@@ -21,6 +21,8 @@ streamlit
 
 # Experiments
 ipykernel
+matplotlib
+
 
 
 
